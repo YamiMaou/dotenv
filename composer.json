@@ -1,0 +1,20 @@
+{
+    "name": "yamitec/dot-env",
+    "description": "a simple .env to $_ENV toolkit",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maou Yami",
+            "email": "maou@yamitec.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+          "YamiTec\\DotENV\\": "src/"
+        }
+    }
+}
