@@ -3,6 +3,7 @@
     "description": "a simple .env to $_ENV toolkit",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Maou Yami",
